@@ -94,7 +94,7 @@ const BuyModal: React.FC<Props> = ({
           </St.Button>
         ) : (
           <CrossmintPayButton
-            clientId="80ea9518-778f-4924-9924-be506144cc03"
+            clientId="bc874951-6957-455f-87f1-dfd21356f7be"
             mintConfig={{
               type: 'erc-721',
               totalPrice: total,

@@ -59,7 +59,7 @@ const Home: NextPage = () => {
   return (
     <AppContainer>
       <Head>
-        <title>Pre Genesis Mint (The Deity)</title>
+        <title>Blue Check</title>
         <meta
           name="description"
           content="HDL will mint its iconic corporate pigeon logo for free for the
